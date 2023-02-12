@@ -1,4 +1,4 @@
-#### 准备工作 :
+#### what? :
 
 ​    ubuntu 20.04 + ROS2 - foxy - desktop 
 
